@@ -16,7 +16,7 @@ My name is Sarah!
 
 ### Looking for something in particular?
 
-You can find my [resume here](https://github.com/drguthals/drguthals/blob/main/Sarah_Guthals_CV_Feb21.pdf) or [download my resume directly by clicking here](https://github.com/drguthals/drguthals/raw/main/Sarah_Guthals_CV_Feb21.pdf).
+You can find my [resume here](https://github.com/drguthals/sguthals/blob/main/Sarah_Guthals_CV_Feb21.pdf) or [download my resume directly by clicking here](https://github.com/drguthals/sguthals/raw/main/Sarah_Guthals_CV_Feb21.pdf).
 
 Maybe you attended one of my talks, or are looking for some learning resources to start your coding journey? Check out these repos for more info:
 - [Talks with Dr G](https://guthals.com/talkswithdrg): This repo contains resources from talks that I have given, including shareboards to say you were there (or watched the video) and links to my weekly live streaming!
